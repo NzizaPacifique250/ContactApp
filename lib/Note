@@ -1,0 +1,9 @@
+This is the not from my course:
+
+--> When you want to make list of many items instead of creating them one by one you use list and builder.
+--> To make arrangement of list item we use "sort" function.
+--> State management can be written in differenttwo methods:
+        1. 'Lifting up state' : With this method you create function that will hold state that you will need inside the code. N.B: This method can be used for only simple application.
+        2. 'SopedModel' :
+                                                
+--> 
